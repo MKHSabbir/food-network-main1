@@ -1,0 +1,109 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin: 180px;
+    
+}
+.text{
+    width: 470px;
+}
+
+.half-width .link-button{
+    position: relative;
+    top: 30px;
+}
+
+.second-one .link-button{
+    position: relative;
+    top: 50px;
+}
+.green-color{
+    color: green;
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 20px;
+    font-weight: 300;
+    
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(to right, rgb(152, 211, 152), rgb(15, 95, 35));
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 25px;
+    margin-top: 50px;
+  
+   
+
+}
+.image-two{
+    width: 50%;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.second-one{
+    width: 50%;
+    margin: 100px;
+    
+}
+.top-banner{
+    background-image: url(./images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin: 0px;
+    background-size: cover;
+}
+.my-recipies{
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+.first-title{
+    width: 500px;
+    margin-left: 50px;
+    border-radius: 50px;
+    padding: 30px;
+    box-shadow: 0 0px 20px 10px #ddd;
+}
+.first-title img{
+    width: 100%;
+}
+.title{
+    display: flex;
+}
+.view{
+    width: 90%;
+    display: flex;
+    margin-top: 70px;
+    margin-left: 40px;
+    border-radius: 50px;
+    padding: 50px;
+    box-shadow: 0 0px 20px 10px #ddd;
+
+}
+.text-width{
+    width: 800px;
+    padding-left: 170px;
+}
+.final{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+}
+#net{
+    color: gray;
+}
